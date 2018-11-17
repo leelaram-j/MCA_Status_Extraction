@@ -1,2 +1,2 @@
 # MCA_Status_Extraction
-from Instfinacials website
+from Instafinacials website
